@@ -288,8 +288,8 @@ iframe{
   position: absolute;
   width: 50%;
 }
-ol, ul {
-    padding-left: 0rem;
+ul {
+    padding: 0;
 }
 
 
@@ -341,7 +341,7 @@ ol, ul {
   .highlight-data{
     margin-top: 50px;
   }
-  ol, ul {
-    padding-left: 0rem;
+  ul {
+    padding: 0rem;
 }
 }
